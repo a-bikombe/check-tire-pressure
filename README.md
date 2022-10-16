@@ -1,2 +1,2 @@
-# Checking Tire Pressure
+# Check Tire Pressure
 
